@@ -1,0 +1,2 @@
+# IsBlankStringDemo
+IsBlankString Test
